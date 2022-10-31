@@ -1,0 +1,14 @@
+a1 + a2 + ... + an
+=
+n
+Σ ai
+i = 1
+=
+sum(list[i:n])
+
+Σ = summation sign
+
+abs(x) in code
+
+|x| irl
+
