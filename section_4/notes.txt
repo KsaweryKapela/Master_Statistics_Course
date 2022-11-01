@@ -1,0 +1,10 @@
+Statistics data types:
+
+Numeric:
+- Interval (celcius)
+- Ratio (interval, but with meaningful 0, so height or money)
+- Discrete (no arbitary precision, so population)
+
+Categorical:
+- Ordinal (sortable, so education)
+- Nominal (non-sortable, like movie genre)
