@@ -16,5 +16,3 @@ iq_range1 = iq_vals[1] - iq_vals[0]
 iq_range2 = stats.iqr(data)
 
 print(iq_range1, iq_range2)
-
-
