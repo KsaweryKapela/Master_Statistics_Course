@@ -16,8 +16,7 @@ for n in n_bins:
     entros.append(entro)
 
 plt.figure(figsize=(12, 8))
-plt.plot(n_bins,
-         entros)
+plt.plot(n_bins, entros)
 plt.xticks(range(0, 51, 5))
 plt.xlabel('Number of bins')
 plt.ylabel('Entropy')
