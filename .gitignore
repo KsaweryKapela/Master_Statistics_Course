@@ -1,2 +1,3 @@
 .idea/
-ANOVA/TwoWayMixedANOVA_data.csv
+*.csv
+
